@@ -1,6 +1,13 @@
 NodeJS - AngularJS Skeleton
 ====
-A design portfolio
+A NodeJS application which uses:
+- Gulp - to run tasks such as auto injection and sass compilation.
+- Bower - to manage index dependencies.
+- AngularJS - to make the webapp dynamic.
+- Sass - to provide more flexible, modular css.
+- Express - as an application container/server
+
+This app is Heroku ready and can be deployed without any modifications
 
 Initial Setup
 ----
@@ -21,3 +28,7 @@ Stopping the app locally
 ----
 - In the same command line terminal as you started in just press 'ctrl + c'
 - If you are in a different terminal then run 'npm stop'
+
+Contact
+----
+Email: ed.wilson2@hotmail.co.uk
